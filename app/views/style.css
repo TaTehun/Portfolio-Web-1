@@ -5,8 +5,6 @@
   padding: 0;
   box-sizing: border-box;
   font-family: 'Ubuntu', sans-serif;
-
-
 }
 .contact
 {
@@ -19,8 +17,6 @@
   flex-direction: column;
   background-image: url('css_image/houston.jpg');
   background-size: cover;
-  
-
 }
 .contact .content
 {
